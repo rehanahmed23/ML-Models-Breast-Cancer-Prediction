@@ -8,4 +8,8 @@ Features are computed from a digitized image of a fine needle aspirate (FNA) of 
 
 With SVM Classifier the accuracy of our Model is 95.61%.
 
+<<<<<<< HEAD
 With Random Forrest Classifier the accuracy of our Model is 96.49%.
+=======
+With Random Forrest Classifier the accuracy of our Model is 96.49%.
+>>>>>>> a6201de11e44085fdafaaa609b8a3c531390e185
